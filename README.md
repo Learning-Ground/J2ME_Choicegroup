@@ -1,6 +1,5 @@
-# J2ME_Choicegroup
-J2ME_Choicegroup sample
+#### J2ME_Choicegroup
 This is a sample code for learning J2ME Choicegroup element.
-==============================================
-NOTE :
+
+#### NOTE :
 This code was built with Netbean 7.2
